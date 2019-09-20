@@ -28,3 +28,17 @@ Please visit this link [cv at HH](https://almaty.hh.kz/resume/997d29faff015bdf07
 
 + `1999-2004` Kazakh National University named after al-Farabi, oriental faculty, Japanese language
 + `2006-2006` Kazakh-Indian Information center NIIT
+
+### `Education`
+___
++ `1999-2004` Kazakh National University named after al-Farabi, oriental faculty, Japanese language
++ `2006-2006` Kazakh-Indian Information center NIIT
+
+
+### `English`
+___
+Good at reading, writing and communications
+
+
+<!-- ### Footer
+Last updated: September 2019 -->
