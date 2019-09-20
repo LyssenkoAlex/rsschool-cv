@@ -12,7 +12,7 @@ ___
 ### `Personal Information`
 + Age: **36**
 + Citizenship: **Kazakhstan**
-+ Maritial status: **Married, two kids**
++ Marital status: **Married, two kids**
 
 ### `Career Objective`
 ___
@@ -32,7 +32,7 @@ Progress ABL, PL/SQL, JavaScript, Java, HTML, CSS, MySQL, Python, TIBCO ESB, Ora
 
 ### `Code examples`
 ___
-Little code sample of dash board. d3.js is main JS framework wich I use for data visualisation
+Little code sample of dash board. d3.js is main JS framework which I use for data visualization
 [code sample](https://bl.ocks.org/LyssenkoAlex/1317e8dcf3d40f33b341552cf82a10b2)
 
 
