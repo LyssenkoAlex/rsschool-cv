@@ -4,15 +4,18 @@ title: Lyssenko Alexandr - Curriculum Vitae
 ---
 
 ### `Contact Details`
-___
+__
 + Name: **Lyssenko Alexandr**
 + Tel.: **+7 705 205 73 20**
 + E-mail: **lyssenko.alex@gmail.com**
-___
+
+
 ### `Personal Information`
+__
 + Age: **36**
 + Citizenship: **Kazakhstan**
 + Marital status: **Married, two kids**
+
 
 ### `Career Objective`
 ___
@@ -24,6 +27,7 @@ On my current position I develop in house project to replace commercial tools to
 customer experience visualization.
 Switch from banking sector to private international company will build competitive environment to
 succeed the best.
+
 
 ### `Skills`
 ___
@@ -45,8 +49,7 @@ As lead developer at HomeCredit Bank I am responsible for:
     - JS, d3.js, Python, pl/sql, MySQL
 + Develop and support dash board platform with:
     - HTML, CSS, JS, Python, MySQL, PL/SQL
-    
-___
+
 My previous experience is available at Head Hunter. 
 Please visit this link [cv at HH](https://almaty.hh.kz/resume/997d29faff015bdf070039ed1f33554e315347)
 
