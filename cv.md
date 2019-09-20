@@ -4,14 +4,14 @@ title: Lyssenko Alexandr - Curriculum Vitae
 ---
 
 ### `Contact Details`
-__
+___
 + Name: **Lyssenko Alexandr**
 + Tel.: **+7 705 205 73 20**
 + E-mail: **lyssenko.alex@gmail.com**
 
 
 ### `Personal Information`
-__
+___
 + Age: **36**
 + Citizenship: **Kazakhstan**
 + Marital status: **Married, two kids**
