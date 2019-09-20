@@ -8,7 +8,7 @@ ___
 + Name: **Lyssenko Alexandr**
 + Tel.: **+7 705 205 73 20**
 + E-mail: **lyssenko.alex@gmail.com**
-
+___
 ### `Personal Information`
 + Age: **36**
 + Citizenship: **Kazakhstan**
