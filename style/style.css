@@ -1,0 +1,25 @@
+body {
+    font-size: 100%;
+    font-family: Helvetica, sans-serif;
+    margin: 0 auto;
+    max-width: 1024px;
+    padding: 1em 0;
+    background: #fdf9ff;
+    color:#111111;
+}
+
+p {
+    font-size: 1em;
+    line-height: 1.4em;
+    margin-bottom: 20px;
+
+}
+
+.indent {
+    text-indent: 2em;
+}
+
+article,
+footer {
+    padding: 1em;
+}
