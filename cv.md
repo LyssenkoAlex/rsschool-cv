@@ -59,6 +59,9 @@ ___
 ### `RS School first try - 2019-Q3` 1098.6 points
 ___
 + `2019 - Q3` RS School front end - 1098.6 points
+    1. HTML, CSS
+    2. Core JS
+    3. Advanced JS
 
 ### `English`
 ___
