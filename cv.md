@@ -25,8 +25,6 @@ From junior developed I was promoted to senior develop, head of core banking dev
 technical architecture.
 On my current position I develop in house project to replace commercial tools to build dashboard for
 customer experience visualization.
-Switch from banking sector to private international company will build competitive environment to
-succeed the best.
 
 
 ### `Skills`
@@ -63,6 +61,6 @@ ___
 ___
 Good at reading, writing and communications
 
-
+### `RS School first try - 2019-Q3` 1098.6 points
 <!-- ### Footer
 Last updated: September 2019 -->
