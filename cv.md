@@ -62,6 +62,7 @@ ___
     1. HTML, CSS
     2. Core JS
     3. Advanced JS
+    4. Mini react project
 
 ### `English`
 ___
