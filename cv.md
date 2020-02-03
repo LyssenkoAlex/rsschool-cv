@@ -56,11 +56,14 @@ ___
 + `1999-2004` Kazakh National University named after al-Farabi, oriental faculty, Japanese language
 + `2006-2006` Kazakh-Indian Information center NIIT
 
+### `RS School first try - 2019-Q3` 1098.6 points
+___
++ `2019 - Q3` RS School first try - 1098.6 points
 
 ### `English`
 ___
 Good at reading, writing and communications
 
-### `RS School first try - 2019-Q3` 1098.6 points
+
 <!-- ### Footer
 Last updated: September 2019 -->
