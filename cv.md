@@ -29,7 +29,7 @@ customer experience visualization.
 
 ### `Skills`
 ___
-Progress ABL, PL/SQL, JavaScript, Java, HTML, CSS, MySQL, Python, TIBCO ESB, Oracle ESB 
+JS, PL/SQL, Progress ABL, Java, HTML, CSS, MySQL, Python, TIBCO ESB, Oracle ESB 
 
 
 ### `Code examples`
