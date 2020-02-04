@@ -30,6 +30,8 @@ customer experience visualization.
 ### `Skills`
 ___
 Progress ABL, PL/SQL, JavaScript, Java, HTML, CSS, MySQL, Python, TIBCO ESB, Oracle ESB 
+
+
 ### `Code examples`
 ___
 Little code sample of dash board. d3.js is main JS framework which I use for data visualization
@@ -53,3 +55,19 @@ Please visit this link [cv at HH](https://almaty.hh.kz/resume/997d29faff015bdf07
 ___
 + `1999-2004` Kazakh National University named after al-Farabi, oriental faculty, Japanese language
 + `2006-2006` Kazakh-Indian Information center NIIT
+
+### `RS School first try - 2019-Q3` 1098.6 points
+___
++ `2019 - Q3` RS School front end - 1098.6 points
+    1. HTML, CSS
+    2. Core JS
+    3. Advanced JS
+    4. Mini react project
+
+### `English`
+___
+Good at reading, writing and communications
+
+
+<!-- ### Footer
+Last updated: September 2019 -->
